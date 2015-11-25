@@ -16,11 +16,7 @@ disruptive technologies
 
 <br/>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gdAiuTaWBA9rcb9Rm-
-
-dyd380YuJoPtemp9YD-RUiuQSGlfmY" alt="while control structure" title="while control structure" 
-
-style="height:80%;width:auto;margin:0 auto;display:block" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-gdAiuTaWBA9rcb9Rm-dyd380YuJoPtemp9YD-RUiuQSGlfmY" alt="while controlstructure" title="while control structure" style="height:80%;width:auto;margin:0 auto;display:block" />
 
 <!-- the second paragraph is about the 12 disruptive technologies that are increasing and growing rapidly -->
 
@@ -43,4 +39,4 @@ style="height:80%;width:auto;margin:0 auto;display:block" />
 
 <iframe width="450" height="274" src="https://www.youtube.com/embed/qDrMAzCHFUU" frameborder="0" allowfullscreen></iframe>
 
-
+<iframe width="1058" height="901" src="https://www.youtube.com/embed/qDrMAzCHFUU" frameborder="0" allowfullscreen></iframe>
